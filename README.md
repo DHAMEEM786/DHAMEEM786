@@ -9,14 +9,15 @@
 </p>
 
 
-## About Me
+##  About Me
 
-- Computer Science Engineering Student  
-- Knowledge Institute of Technology, Salem  
-- Interested in **Artificial Intelligence, Web3 and Full Stack Development**  
-- Passionate about building **real-world technology solutions**
+I am **Sahul Hameed Dhameem**, a Computer Science Engineering student at **Knowledge Institute of Technology, Salem**. I am passionate about building innovative technology solutions and exploring modern tools in software development.
 
----
+My main interests are **Artificial Intelligence, Blockchain, and Full Stack Web Development**. I enjoy creating intelligent systems, decentralized applications, and scalable web platforms.
+
+Currently, I am developing projects related to **AI, Web3, and smart digital systems**, while continuously learning new technologies and improving my problem-solving and development skills.
+
+
 
 ## Tech Stack
 
@@ -29,16 +30,16 @@
 | **Tools** | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Figma](https://skillicons.dev/icons?i=figma) |
 
 
----
+
 
 ## Projects
 
 | Project | Description |
 |------|-------------|
-| TN.AI Planner | AI powered tourism itinerary planner |
-| Web3 Smart Ticket System | Blockchain temple ticket booking system |
-| WildGuard | IoT wildlife monitoring system |
-
+| TN.AI Planner | AI-powered tourism itinerary generator that helps travelers plan trips intelligently |
+| Web3 Smart Ticket System | Blockchain-based temple ticket booking system using smart contracts and MetaMask |
+| HerbeCourse | Informational website promoting herbal products and natural healthcare solutions |
+| Smart Bus Monitoring System | Intelligent bus monitoring system for tracking vehicle location, improving transport management and passenger safety |
 ---
 
 
@@ -47,8 +48,8 @@
 | Platform | Link |
 |--------|------|
 | GitHub | https://github.com/DHAMEEM786 |
-| Email | your-email@gmail.com |
-| LinkedIn | your-linkedin-profile |
+| Email | knsdhameem2005@gmail.com |
+| LinkedIn | https://www.linkedin.com/in/sahulhameeddhameemm/ |
 
 ---
 
