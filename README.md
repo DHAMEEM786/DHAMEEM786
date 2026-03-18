@@ -1,7 +1,6 @@
 # Hello Everyone, I'm Sahul Hameed Dhameem 👋
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
-
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="500">
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering Student  
