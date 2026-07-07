@@ -11,7 +11,7 @@
 
 ##  About Me
 
-I am **Sahul Hameed Dhameem**, a Computer Science Engineering student at **Knowledge Institute of Technology, Salem**. I am passionate about building innovative technology solutions and exploring modern tools in software development.
+I am **Sahul Hameed Dhameem**, a Infromation Technology student at **Knowledge Institute of Technology, Salem**. I am passionate about building innovative technology solutions and exploring modern tools in software development.
 
 My main interests are **Artificial Intelligence, Blockchain, and Full Stack Web Development**. I enjoy creating intelligent systems, decentralized applications, and scalable web platforms.
 
